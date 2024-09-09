@@ -1,6 +1,5 @@
 Here’s a sample `README.md` file for the MicroPython ESP32/ESP8266 project that connects to an MQTT server and communicates over WiFi.
 
-```md
 # MicroPython MQTT Client for ESP32/ESP8266
 
 This project demonstrates how to set up an MQTT client using MicroPython on ESP32/ESP8266 devices. The ESP device connects to an open WiFi network and communicates with a Mosquitto MQTT broker hosted on a cloud VPS.
@@ -85,8 +84,6 @@ You can customize the topics or add more functionality to the script as needed. 
 
 - **ESP not connecting to WiFi:** Ensure that the SSID is correct, and the network is open (no password).
 - **MQTT broker not reachable:** Verify that port 1883 is open on the VPS and the IP address is correct.
-
-```
 
 ### Key Sections:
 1. **Project Description** – Describes the project and the technology used.
